@@ -25,3 +25,5 @@ The **Scrum process** encourages practitioners to work with what they have and c
 **Sprint Review**. **This is the time to show off the increment**.
 
 **Sprint Retrospective**. A **Sprint Retrospective** is **a meeting that's held after a Sprint ends**. During this meeting, **everyone reflects on the Sprint process**. A team-building exercise may also be offered. An important goal of a Sprint Retrospective is **continuous improvement**.
+
+![Scrum Poster](Images/SCRUM-Poster.png)
