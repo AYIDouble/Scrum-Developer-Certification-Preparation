@@ -39,3 +39,17 @@ An **artifact** is **something of historical interest that deserves to be looked
 **Product increment**. This refers to what's been accomplished during a Sprint -- all the product backlog items -- as well as what's been created during all previous Sprints. The product increment reflects how much progress has been made.
 
 **Burn-down**. The burn-down is a visual representation of the amount of work that still needs to be completed. A burn-down chart has a Y axis (work) and an X axis (time). Ideally, the chart illustrates a downward trend, as the amount of work still left to do over time burns down to zero.
+
+## Scrum values 🔤
+
+The **three pillars of Scrum** -- **transparency**, **inspection** and **adaptation** -- are supported by **five values**: **commitment**, **courage**, **focus**, **openness** and **respect**.
+
+**Commitment**: The team is self-directed, and all members are dedicated to completing work that has been agreed upon.
+
+**Courage**: The team operates as a single entity and succeeds or fails together.
+
+**Focus**: The team limits distractions and concentrates on what work needs to be done today.
+
+**Openness**: The team is given time to gather and share what has been successful and what needs to be improved.
+
+**Respect**: The team is composed of members who have different strengths, and each individual's strengths are respected. There is no finger-pointing when discussing how to fix what is not working.
