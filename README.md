@@ -53,3 +53,5 @@ The **three pillars of Scrum** -- **transparency**, **inspection** and **adaptat
 **Openness**: The team is given time to gather and share what has been successful and what needs to be improved.
 
 **Respect**: The team is composed of members who have different strengths, and each individual's strengths are respected. There is no finger-pointing when discussing how to fix what is not working.
+
+![Scrum Values](Images/Scrum-Values.png)
