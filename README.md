@@ -27,3 +27,15 @@ The **Scrum process** encourages practitioners to work with what they have and c
 **Sprint Retrospective**. A **Sprint Retrospective** is **a meeting that's held after a Sprint ends**. During this meeting, **everyone reflects on the Sprint process**. A team-building exercise may also be offered. An important goal of a Sprint Retrospective is **continuous improvement**.
 
 ![Scrum Poster](Images/SCRUM-Poster.png)
+
+## Scrum artifacts 📁
+
+An **artifact** is **something of historical interest that deserves to be looked at again**. In **Scrum product development**, **artifacts are used to see what's been done and what is still in the queue**. **Scrum artifacts**, which include **product backlog**, **Sprint backlog**, **product increment** and **burn-down**, are useful to look at in **Sprint Planning Meetings**.
+
+**Product backlog**. This refers to what remains on the "to be done" list.  During a product backlog grooming session, the development team works with the business owner to prioritize work that has been backlogged. The product backlog may be fine-tuned during a process called backlog refinement.
+
+**Sprint backlog**. This is a list of tasks that must be completed before selected product backlog items can be delivered. These are divided in to time-based user stories.
+
+**Product increment**. This refers to what's been accomplished during a Sprint -- all the product backlog items -- as well as what's been created during all previous Sprints. The product increment reflects how much progress has been made.
+
+**Burn-down**. The burn-down is a visual representation of the amount of work that still needs to be completed. A burn-down chart has a Y axis (work) and an X axis (time). Ideally, the chart illustrates a downward trend, as the amount of work still left to do over time burns down to zero.
